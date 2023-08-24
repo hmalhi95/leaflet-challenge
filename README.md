@@ -1,6 +1,6 @@
 # Leaflet Challenge
 
-## Create the Earthquake Visualization
+## Creating the Earthquake Visualization
 - I first retrieved the GeoJSON data from USGS Data Feed for earthquakes over the last 7 days
 - Next, I created a map using OSM to plot all the data I retrieved
 - From the GeoJSON data, I added markers to the map I created to show the magnitude via the size of the marker as well as depth by the color of the marker
